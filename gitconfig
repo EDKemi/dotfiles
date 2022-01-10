@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = eloho_kemi@yahoo.co.uk
+	name = Eloho Kemi
